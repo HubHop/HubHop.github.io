@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://HubHop.github.io/al-folio/sitemap.xml
